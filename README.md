@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Avdhesh Ghansela</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India,Bangalore </h3>
 <img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk3b3pqcmEydjc2Njd6aHFpZ3o3YnpzcmN2N2xyd2V4djZ5Ym1mOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif>
 
 
